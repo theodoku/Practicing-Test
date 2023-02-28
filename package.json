@@ -1,0 +1,23 @@
+{
+  "name": "practicing-test",
+  "version": "1.0.0",
+  "description": "Testing practice for JavaScript functions using the Jest library and following the AAA pattern and TDD approach.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theodoku/Practicing-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theodoku/Practicing-Test/issues"
+  },
+  "homepage": "https://github.com/theodoku/Practicing-Test#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
